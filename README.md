@@ -12,5 +12,5 @@ Or as our man Bob Dobalina would put it.
 > Happiness is a dip in the ocean followed by a pint or two of Old Speckled Hen. You can quote me on that! 
 
 
-# See More at
+# Learn More at
 [BubbleUnder.com](https://bubble-under-club.netlify.app/)
